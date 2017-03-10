@@ -1,2 +1,6 @@
+.idea
+.idea/*
+test_server.sh
+
 vendor
 composer.lock

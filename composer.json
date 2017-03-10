@@ -16,6 +16,7 @@
     "require": {
         "easyrdf/easyrdf": "*",
         "guzzlehttp/guzzle": "~6.0",
-        "willdurand/negotiation": "^2.2"
+        "willdurand/negotiation": "^2.2",
+        "league/flysystem": "^1.0"
     }
 }
